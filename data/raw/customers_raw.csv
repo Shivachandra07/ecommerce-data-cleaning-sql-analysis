@@ -1,0 +1,336 @@
+customer_id,full_name,email,city,country,signup_date
+C0235,Vikram Desai,vikram.desai235@example.com,MUMBAI,India,2023-03-13
+C0072,SAI RAO,SAI.RAO72@EXAMPLE.COM,Delhi,India,03/08/2022
+C0094,Nisha Menon,nisha.menon94@example.com,MUMBAI,India,2022-02-26
+C0045,Divya Verma,  divya.verma45@example.com ,Bengaluru,India,2022-04-26
+C0099,Shivachandra Chowdhary,shivachandra.chowdhary99@example.com,CHENNAI,india,02-Mar-2023
+C0295,  Suresh Reddy  ,suresh.reddy295@example.com,Mumbai,india,29/12/2023
+C0060,Divya Nair,divya.nair60@example.com,Vijayawada,India,28/03/2022
+C0217,shivachandra reddy,SHIVACHANDRA.REDDY217@EXAMPLE.COM,BENGALURU,India,29/05/2024
+C0252,manoj rao,manoj.rao252@example.com,Chennai,India,2023-01-04
+C0050,ananya verma,ananya.verma50@example.com,Vijayawada,India,23/04/2022
+C0151,Priya Reddy,priya.reddy151@example.com,London,UK,19/07/2023
+C0272,Divya Naidu,divya.naidu272@example.com,CHENNAI,India,2022-05-04
+C0055,Anjali Kumar,ANJALI.KUMAR55@EXAMPLE.COM,Hyderabad,India,14/03/2022
+C0275,Arjun Verma,arjun.verma275@example.com,Pune,India,2023-04-17
+C0078,  Ajay Rao  ,ajay.rao78@example.com,Chennai,India,13-Sep-2022
+C0311,Ajay Verma,AJAY.VERMA311@EXAMPLE.COM,Bengaluru,India,10/07/2023
+C0054,sneha naidu,sneha.naidu54@example.com,Vijayawada,India,"May 02, 2024"
+C0304,Rahul Kumar,rahul.kumar304@example.com,Chennai,india,2023-01-02
+C0027,Sneha Sharma,sneha.sharma27@example.com,Vijayawada,India,27-Apr-2023
+C0316,Shivachandra Nair,SHIVACHANDRA.NAIR316@EXAMPLE.COM,Singapore,Singapore,2022-09-12
+C0045,Divya Verma,  divya.verma45@example.com ,Bengaluru,India,2022-04-26
+C0260,shivachandra verma,shivachandra.verma260@example.com,DUBAI,UAE,2022-05-18
+C0089,Karthik Desai,karthik.desai89@example.com,Dubai,UAE,2024-05-25
+C0169,Suresh Joshi,suresh.joshi169@example.com,Chennai,India,2023-05-22
+C0134,Kavya Iyer,not-an-email,Pune,India,2022-04-04
+C0176,Vikram Rao,vikram.rao176@example.com,London,UK,2022-06-08
+C0079,Nisha Desai,nisha.desai79@example.com,Hyderabad,India,2024-04-11
+C0267,Anjali Iyer,anjali.iyer267@example.com,Dubai,uae,24-Feb-2022
+C0144,Deepa Joshi,deepa.joshi144@example.com,London,UK,2023-11-11
+C0020,Kavya Gupta,kavya.gupta20@example.com,Bengaluru,India,2022-04-29
+C0125,Kiran Nair,  kiran.nair125@example.com ,Delhi,India,2022-04-02
+C0193,Suresh Joshi,suresh.joshi193@example.com,Vijayawada,India,2022-10-01
+C0283,Vikram Joshi,vikram.joshi283@example.com,LONDON,UK,2023-09-14
+C0305,rohit verma,rohit.verma305@example.com,Delhi,india,2022-12-10
+C0138,Kavya Chowdhary,kavya.chowdhary138@example.com,Mumbai,India,2022-06-12
+C0179,Vikram Patel,vikram.patel179@example.com,DELHI,India,21/04/2023
+C0032,Shivachandra Reddy,shivachandra.reddy32@example.com,Bengaluru,india,24-Jun-2023
+C0205,Kiran Naidu,kiran.naidu205@example.com,Bengaluru,India,"Jun 01, 2024"
+C0034,Ananya Desai,ananya.desai34@example.com,Pune,India,15-Apr-2023
+C0112,Sai Kumar,sai.kumar112@example.com,Vijayawada,India,17-May-2022
+C0239,VAMSI KUMAR,vamsi.kumar239@example.com,Pune,India,2022-08-29
+C0064,Rahul Reddy,rahul.reddy64@example.com,Hyderabad,India,2022-05-17
+C0200,Anjali Gupta,anjali.gupta200@example.com,BENGALURU,India,23/07/2023
+C0225,Harini Patel,harini.patel225@example.com,Delhi,India,2023-02-01
+C0195,AJAY DESAI,ajay.desai195@example.com,Pune,India,"Jun 06, 2022"
+C0044,Rahul Menon,rahul.menon44@example.com,Pune,India,20/01/2022
+C0299,chaitra chowdhary,chaitra.chowdhary299@example.com,Pune,India,2022-05-28
+C0243,Sneha Shetty,sneha.shetty243@example.com,Chennai,India,2023-11-25
+C0285,Aditya Gupta,aditya.gupta285@example.com,Mumbai,India,2022-07-08
+C0175,Swathi Shetty,,Mumbai,India,17/08/2023
+C0262,Harsha Gupta,harsha.gupta262@example.com,Dubai,uae,2022-09-02
+C0219,Divya Nair,divya.nair219@example.com,Dubai,UAE,2023-12-28
+C0224,Rohit Joshi,rohit.joshi224@example.com,London,UK,2024-01-14
+C0190,aditya verma,aditya.verma190@example.com,Vijayawada,India,2024-03-31
+C0116,Shivachandra Gupta,shivachandra.gupta116@example.com,Vijayawada,India,2024-05-10
+C0198,Arjun Desai,arjun.desai198@example.com,Delhi,India,2024-03-21
+C0297,Kiran Chowdhary,kiran.chowdhary297@example.com,Vijayawada,india,2023-02-25
+C0177,SNEHA NAIDU,sneha.naidu177@example.com,Vijayawada,India,2022-09-22
+C0135,Karthik Menon,karthik.menon135@example.com,Pune,india,07/03/2024
+C0163,PRIYA REDDY,priya.reddy163@example.com,Hyderabad,India,18/05/2024
+C0192,Anjali Joshi,anjali.joshi192@example.com,Delhi,India,2023-04-25
+C0194,Suresh Menon,suresh.menon194@example.com,Mumbai,India,02/01/2023
+C0226,Shivachandra Naidu,shivachandra.naidu226@example.com,Mumbai,India,2022-10-02
+C0238,Rahul Rao,rahul.rao238@example.com,Pune,india,2023-08-02
+C0039,Manoj Verma,manoj.verma39@example.com,Singapore,Singapore,2023-06-04
+C0117,Ravi Joshi,ravi.joshi117@example.com,London,UK,2022-07-18
+C0296,  Ajay Reddy  ,ajay.reddy296@example.com,Vijayawada,India,29/06/2022
+C0173,Harini Nair,harini.nair173@example.com,VIJAYAWADA,India,2023-04-17
+C0284,KAVYA IYER,kavya.iyer284@example.com,Dubai,UAE,"Jul 23, 2023"
+C0261,vikram verma,,HYDERABAD,India,20/01/2022
+C0313,Harini Sharma,harini.sharma313@example.com,Bengaluru,India,30/07/2023
+C0302,Rohit Reddy,rohit.reddy302@example.com,Singapore,Singapore,2022-11-07
+C0052,Ananya Reddy,ananya.reddy52@example.com,Hyderabad,India,2024-01-21
+C0143,CHAITRA SHARMA,chaitra.sharma143@example.com,Singapore,Singapore,2022-08-24
+C0247,Kiran Rao,kiran.rao247@example.com,Delhi,india,26-Feb-2023
+C0244,anjali patel,anjali.patel244@example.com,Bengaluru,India,2023-09-26
+C0012,Ravi Sharma,ravi.sharma12@example.com,Singapore,Singapore,"Mar 02, 2022"
+C0318,Chaitra Rao,chaitra.rao318@example.com,Chennai,India,25/01/2023
+C0179,Vikram Patel,vikram.patel179@example.com,DELHI,India,21/04/2023
+C0140,Meera Nair,meera.nair140@example.com,Mumbai,India,27-Nov-2023
+C0273,  Harsha Verma  ,harsha.verma273@example.com,CHENNAI,india,2023-03-27
+C0105,Rahul Shetty,rahul.shetty105@example.com,Hyderabad,india,2022-09-21
+C0168,SHIVACHANDRA VERMA,shivachandra.verma168@example.com,Vijayawada,India,2022-10-23
+C0164,  Lakshmi Sharma  ,,Chennai,India,2022-04-11
+C0014,swathi iyer,  swathi.iyer14@example.com ,Pune,India,2023-12-01
+C0100,Naveen Sharma,naveen.sharma100@example.com,Bengaluru,India,2022-06-19
+C0081,  Pooja Kumar  ,pooja.kumar81@example.com,Chennai,India,29/04/2023
+C0254,Chaitra Rao,chaitra.rao254@example.com,CHENNAI,India,2022-07-30
+C0120,Ajay Naidu,ajay.naidu120@example.com,Chennai,India,2023-09-28
+C0119,ananya patel,ANANYA.PATEL119@EXAMPLE.COM,Mumbai,India,2022-02-09
+C0234,Manoj Chowdhary,manoj.chowdhary234@example.com,HYDERABAD,India,07/04/2022
+C0018,ARJUN GUPTA,  arjun.gupta18@example.com ,Chennai,india,2022-04-23
+C0141,Ananya Nair,ananya.nair141@example.com,Pune,India,2024-06-12
+C0010,SAI SHARMA,sai.sharma10@example.com,Bengaluru,India,04/10/2022
+C0271,Karthik Reddy,karthik.reddy271@example.com,London,UK,2022-04-13
+C0256,Deepa Joshi,deepa.joshi256@example.com,SINGAPORE,Singapore,2022-04-03
+C0202,Anjali Naidu,anjali.naidu202@example.com,Singapore,Singapore,2023-12-14
+C0259,VAMSI IYER,vamsi.iyer259@example.com,London,UK,2024-02-09
+C0174,Harsha Naidu,harsha.naidu174@example.com,Dubai,UAE,2022-06-09
+C0066,Harini Verma,,Bengaluru,India,07-Nov-2023
+C0214,KARTHIK DESAI,karthik.desai214@example.com,Hyderabad,india,25/05/2023
+C0047,ADITYA KUMAR,ADITYA.KUMAR47@EXAMPLE.COM,Dubai,UAE,12/06/2023
+C0187,Deepa Shetty,deepa.shetty187@example.com,Pune,India,2023-06-19
+C0074,Harini Desai,harini.desai74@example.com,SINGAPORE,singapore,2023-02-08
+C0227,Anjali Kumar,anjali.kumar227@example.com,London,UK,"May 31, 2022"
+C0293,Nisha Nair,nisha.nair293@example.com,Chennai,India,2023-06-21
+C0268,  Ajay Nair  ,ajay.nair268@example.com,HYDERABAD,India,09/01/2023
+C0221,Ravi Kumar,ravi.kumar221@example.com,SINGAPORE,Singapore,16/09/2023
+C0130,Naveen Joshi,naveen.joshi130@example.com,Vijayawada,India,2022-02-12
+C0063,Harsha Joshi,harsha.joshi63@example.com,Hyderabad,India,26/04/2024
+C0091,Deepa Menon,deepa.menon91@example.com,Mumbai,India,2022-05-12
+C0162,Anjali Verma,  anjali.verma162@example.com ,Bengaluru,India,2024-06-19
+C0086,Vikram Chowdhary,vikram.chowdhary86@example.com,Pune,India,2022-05-09
+C0068,Ajay Rao,ajay.rao68@example.com,Hyderabad,India,24/09/2023
+C0025,NAVEEN SHETTY,NAVEEN.SHETTY25@EXAMPLE.COM,Vijayawada,India,2022-07-24
+C0276,Rohit Patel,rohit.patel276@example.com,Vijayawada,India,2023-06-09
+C0282,Shivachandra Iyer,  shivachandra.iyer282@example.com ,DUBAI,UAE,23-Aug-2023
+C0033,  Shivachandra Rao  ,shivachandra.rao33@example.com,Vijayawada,India,27-Oct-2022
+C0150,meera desai,  meera.desai150@example.com ,HYDERABAD,india,"Feb 15, 2022"
+C0111,MEERA IYER,meera.iyer111@example.com,Bengaluru,india,15/03/2022
+C0029,Arjun Gupta,arjun.gupta29@example.com,Chennai,India,2023-03-21
+C0197,divya rao,divya.rao197@example.com,London,UK,14-Apr-2022
+C0160,,SHIVACHANDRA.SHARMA160@EXAMPLE.COM,Bengaluru,India,2023-09-29
+C0265,Deepa Iyer,deepa.iyer265@example.com,Delhi,India,04-Sep-2023
+C0026,Vikram Patel,vikram.patel26@example.com,London,UK,2022-12-19
+C0172,Nisha Desai,nisha.desai172@example.com,Hyderabad,India,2023-01-16
+C0148,  Sai Sharma  ,sai.sharma148@example.com,BENGALURU,India,"Oct 16, 2023"
+C0270,Harini Reddy,harini.reddy270@example.com,Hyderabad,India,05/06/2024
+C0209,HARINI IYER,harini.iyer209@example.com,DUBAI,UAE,"Aug 11, 2023"
+C0030,ADITYA MENON,aditya.menon30@example.com,Bengaluru,India,2024-01-13
+C0067,Sneha Menon,sneha.menon67@example.com,Vijayawada,India,2022-08-25
+C0102,Kavya Iyer,kavya.iyer102@example.com,Bengaluru,India,29-Jul-2023
+C0214,,karthik.desai214@example.com,Hyderabad,india,25/05/2023
+C0233,lakshmi naidu,lakshmi.naidu233@example.com,Bengaluru,India,2023-01-16
+C0093,Sai Rao,sai.rao93@example.com,Pune,India,2023-10-23
+C0107,Karthik Shetty,karthik.shetty107@example.com,Bengaluru,india,25-Jan-2022
+C0196,Suresh Kumar,suresh.kumar196@example.com,Dubai,UAE,2024-05-01
+C0038,Shivachandra Shetty,shivachandra.shetty38@example.com,Bengaluru,India,2023-03-30
+C0246,Kavya Kumar,kavya.kumar246@example.com,Pune,India,2022-08-15
+C0115,ADITYA RAO,aditya.rao115@example.com,Vijayawada,India,2023-06-04
+C0298,Rahul Kumar,RAHUL.KUMAR298@EXAMPLE.COM,Dubai,UAE,2023-05-18
+C0199,Harini Desai,harini.desai199@example.com,Dubai,UAE,2024-03-17
+C0008,Priya Verma,PRIYA.VERMA8@EXAMPLE.COM,Delhi,India,18/06/2022
+C0279,Naveen Shetty,  naveen.shetty279@example.com ,Bengaluru,India,2023-06-18
+C0088,Kiran Reddy,kiran.reddy88@example.com,Delhi,India,2023-12-28
+C0153,Naveen Shetty,naveen.shetty153@example.com,Singapore,Singapore,2024-01-03
+C0207,Rohit Verma,rohit.verma207@example.com,Mumbai,India,2024-06-12
+C0320,Priya Joshi,priya.joshi320@example.com,Mumbai,India,13/02/2022
+C0312,Kiran Rao,kiran.rao312@example.com,Hyderabad,India,2023-02-04
+C0183,Swathi Sharma,swathi.sharma183@example.com,Delhi,India,2022-09-06
+C0269,Sneha Kumar,sneha.kumar269@example.com,Delhi,India,11-Feb-2023
+C0178,  Aditya Kumar  ,  aditya.kumar178@example.com ,Chennai,India,"Mar 24, 2024"
+C0216,lakshmi shetty,  lakshmi.shetty216@example.com ,DELHI,India,2023-07-16
+C0085,Harini Reddy,harini.reddy85@example.com,Delhi,India,2023-01-28
+C0016,Harsha Naidu,harsha.naidu16@example.com,Chennai,India,2023-12-09
+C0245,  Karthik Iyer  ,karthik.iyer245@example.com,HYDERABAD,India,2023-10-06
+C0300,HARINI CHOWDHARY,harini.chowdhary300@example.com,Bengaluru,India,2022-12-24
+C0204,rohit shetty,rohit.shetty204@example.com,Bengaluru,India,2023-06-07
+C0040,Pooja Desai,pooja.desai40@example.com,Vijayawada,India,10/05/2024
+C0137,Harini Gupta,harini.gupta137@example.com,Mumbai,India,2024-04-10
+C0110,Manoj Patel,manoj.patel110@example.com,Delhi,India,10/02/2024
+C0118,Chaitra Nair,CHAITRA.NAIR118@EXAMPLE.COM,Hyderabad,India,2022-04-19
+C0133,Sai Shetty,sai.shetty133@example.com,London,UK,2024-03-09
+C0294,Deepa Chowdhary,DEEPA.CHOWDHARY294@EXAMPLE.COM,London,UK,2022-04-20
+C0139,  Karthik Gupta  ,KARTHIK.GUPTA139@EXAMPLE.COM,Vijayawada,India,2023-08-30
+C0022,Manoj Naidu,manoj.naidu22@example.com,Chennai,india,08-Dec-2023
+C0121,PRIYA SHETTY,  priya.shetty121@example.com ,Delhi,India,11/11/2023
+C0051,  Manoj Shetty  ,manoj.shetty51@example.com,Vijayawada,India,"Oct 24, 2022"
+C0229,sneha rao,sneha.rao229@example.com,London,UK,28-Feb-2022
+C0090,Ajay Sharma,shiva@@example.com,Singapore,singapore,"Mar 29, 2022"
+C0145,Deepa Iyer,deepa.iyer145@example.com,Delhi,india,2023-06-09
+C0292,Manoj Kumar,manoj.kumar292@example.com,Bengaluru,India,03-Nov-2023
+C0002,Arjun Reddy,ARJUN.REDDY2@EXAMPLE.COM,Bengaluru,India,21/03/2023
+C0076,  Priya Desai  ,PRIYA.DESAI76@EXAMPLE.COM,VIJAYAWADA,India,2024-01-01
+C0097,ARJUN PATEL,shiva@@example.com,Singapore,Singapore,15/08/2022
+C0317,Vikram Desai,vikram.desai317@example.com,London,UK,2024-01-22
+C0046,Ananya Desai,ananya.desai46@example.com,Chennai,India,"Oct 04, 2022"
+C0319,Sneha Chowdhary,sneha.chowdhary319@example.com,Singapore,Singapore,"Jan 04, 2024"
+C0003,Sneha Nair,SNEHA.NAIR3@EXAMPLE.COM,London,UK,05-Mar-2022
+C0255,Shivachandra Sharma,shivachandra.sharma255@example.com,Dubai,UAE,2023-02-22
+C0017,Vamsi Shetty,vamsi.shetty17@example.com,Dubai,UAE,2023-02-06
+C0257,Meera Chowdhary,MEERA.CHOWDHARY257@EXAMPLE.COM,Pune,India,07/02/2022
+C0108,suresh rao,suresh.rao108@example.com,Delhi,India,14/04/2024
+C0182,chaitra nair,chaitra.nair182@example.com,London,UK,2024-05-22
+C0132,ADITYA NAIR,aditya.nair132@example.com,Pune,India,2023-04-03
+C0232,Swathi Rao,,Pune,India,2023-08-15
+C0280,Kavya Kumar,test@,Vijayawada,India,24-Sep-2023
+C0019,kavya chowdhary,kavya.chowdhary19@example.com,Hyderabad,India,2022-03-14
+C0108,suresh rao,suresh.rao108@example.com,Delhi,India,14/04/2024
+C0211,Swathi Chowdhary,  swathi.chowdhary211@example.com ,BENGALURU,India,06/08/2022
+C0220,Ananya Reddy,,Hyderabad,India,2022-01-16
+C0131,Aditya Chowdhary,aditya.chowdhary131@example.com,Singapore,Singapore,2023-07-18
+C0157,meera menon,meera.menon157@example.com,Pune,India,16/07/2022
+C0009,Chaitra Verma,chaitra.verma9@example.com,London,UK,19/03/2024
+C0001,ROHIT KUMAR,rohit.kumar1@example.com,DELHI,India,"Oct 29, 2023"
+C0258,Sai Verma,,Bengaluru,India,04-May-2022
+C0290,Pooja Desai,pooja.desai290@example.com,London,UK,07/06/2022
+C0222,Kiran Shetty,kiran.shetty222@example.com,Bengaluru,India,07-Jan-2023
+C0049,Rahul Rao,rahul.rao49@example.com,BENGALURU,India,10/04/2023
+C0123,vamsi shetty,VAMSI.SHETTY123@EXAMPLE.COM,Pune,India,"Oct 22, 2023"
+C0113,Ajay Shetty,ajay.shetty113@example.com,Bengaluru,India,09/03/2024
+C0231,harini rao,harini.rao231@example.com,Dubai,UAE,2022-11-25
+C0303,Ajay Iyer,AJAY.IYER303@EXAMPLE.COM,London,UK,15-Aug-2022
+C0103,Nisha Sharma,nisha.sharma103@example.com,Hyderabad,India,2023-12-24
+C0164,  Lakshmi Sharma  ,lakshmi.sharma164@example.com,Chennai,India,2022-04-11
+C0114,Arjun Gupta,arjun.gupta114@example.com,Vijayawada,India,2022-07-10
+C0036,KIRAN KUMAR,kiran.kumar36@example.com,Chennai,india,30/04/2023
+C0042,Kavya Kumar,kavya.kumar42@example.com,Mumbai,India,2022-05-21
+C0242,sai shetty,sai.shetty242@example.com,Bengaluru,India,2023-04-28
+C0177,SNEHA NAIDU,sneha.naidu177@example.com,Vijayawada,India,2022-09-22
+C0287,Harini Desai,shiva@@example.com,HYDERABAD,India,27-Jan-2022
+C0021,priya menon,PRIYA.MENON21@EXAMPLE.COM,Pune,India,"Jan 29, 2024"
+C0227,Anjali Kumar,anjali.kumar227@example.com,London,UK,"May 31, 2022"
+C0020,Kavya Gupta,,Bengaluru,India,2022-04-29
+C0155,Karthik Menon,karthik.menon155@example.com,MUMBAI,India,"Dec 30, 2023"
+C0077,Vamsi Chowdhary,vamsi.chowdhary77@example.com,Bengaluru,India,2023-01-05
+C0266,Rohit Iyer,rohit.iyer266@example.com,Vijayawada,India,"May 08, 2024"
+C0188,MANOJ SHETTY,manoj.shetty188@example.com,Bengaluru,India,2024-01-17
+C0128,Swathi Joshi,swathi.joshi128@example.com,Chennai,India,18-Oct-2023
+C0109,Anjali Menon,anjali.menon109@example.com,Chennai,India,14/09/2023
+C0127,Kiran Joshi,KIRAN.JOSHI127@EXAMPLE.COM,Hyderabad,India,10/05/2023
+C0278,MEERA VERMA,meera.verma278@example.com,Bengaluru,India,2023-09-13
+C0263,priya gupta,,Singapore,Singapore,2023-08-23
+C0104,,HARINI.GUPTA104@EXAMPLE.COM,Hyderabad,India,2023-10-09
+C0181,nisha menon,nisha.menon181@example.com,London,UK,25-Aug-2023
+C0210,Ravi Shetty,  ravi.shetty210@example.com ,Hyderabad,India,18/03/2024
+C0161,Swathi Nair,swathi.nair161@example.com,HYDERABAD,india,2023-12-15
+C0206,  Divya Iyer  ,divya.iyer206@example.com,Pune,india,2023-03-09
+C0146,Ananya Reddy,ananya.reddy146@example.com,London,UK,2022-12-30
+C0028,LAKSHMI DESAI,,Pune,India,29/03/2024
+C0011,Ajay Joshi,ajay.joshi11@example.com,Singapore,Singapore,2022-10-19
+C0114,Arjun Gupta,arjun.gupta114@example.com,Vijayawada,India,2022-07-10
+C0062,Ananya Joshi,ananya.joshi62@example.com,Dubai,UAE,05-Oct-2023
+C0065,Shivachandra Nair,SHIVACHANDRA.NAIR65@EXAMPLE.COM,Dubai,UAE,"Nov 29, 2023"
+C0253,Meera Verma,meera.verma253@example.com,Vijayawada,India,30/12/2023
+C0215,Karthik Iyer,karthik.iyer215@example.com,SINGAPORE,Singapore,"Mar 10, 2022"
+C0241,lakshmi reddy,lakshmi.reddy241@example.com,Bengaluru,india,29/05/2022
+C0236,ANJALI REDDY,ANJALI.REDDY236@EXAMPLE.COM,Pune,India,2022-07-25
+C0142,Pooja Nair,pooja.nair142@example.com,Delhi,India,2024-01-26
+C0035,Kiran Verma,kiran.verma35@example.com,Chennai,India,21-Jun-2023
+C0095,Ajay Iyer,ajay.iyer95@example.com,Pune,India,2022-08-21
+C0309,divya gupta,divya.gupta309@example.com,Dubai,UAE,2022-07-29
+C0082,ADITYA NAIR,aditya.nair82@example.com,Vijayawada,India,2022-11-05
+C0092,Divya Verma,DIVYA.VERMA92@EXAMPLE.COM,London,UK,2022-07-16
+C0212,VAMSI REDDY,vamsi.reddy212@example.com,DELHI,India,2024-03-04
+C0166,Vamsi Rao,vamsi.rao166@example.com,LONDON,UK,2024-02-03
+C0048,,NISHA.DESAI48@EXAMPLE.COM,Bengaluru,India,03-Oct-2022
+C0274,Sneha Menon,sneha.menon274@example.com,Bengaluru,India,29/01/2024
+C0084,arjun patel,test@,Bengaluru,india,28/06/2022
+C0158,SWATHI NAIR,SWATHI.NAIR158@EXAMPLE.COM,Dubai,UAE,"Apr 26, 2023"
+C0191,Suresh Nair,  suresh.nair191@example.com ,Vijayawada,India,26/04/2023
+C0314,Rahul Patel,rahul.patel314@example.com,Mumbai,India,2022-05-10
+C0213,  Divya Verma  ,divya.verma213@example.com,Mumbai,India,02/06/2024
+C0306,SNEHA IYER,sneha.iyer306@example.com,Vijayawada,India,2023-04-24
+C0201,Lakshmi Gupta,lakshmi.gupta201@example.com,Chennai,India,2023-12-19
+C0053,Ajay Joshi,ajay.joshi53@example.com,Delhi,India,04/11/2023
+C0288,Pooja Chowdhary,pooja.chowdhary288@example.com,Delhi,India,2023-06-14
+C0096,Shivachandra Shetty,shivachandra.shetty96@example.com,Mumbai,india,27-Jan-2024
+C0189,Shivachandra Sharma,  shivachandra.sharma189@example.com ,Delhi,India,2023-03-07
+C0152,DEEPA NAIR,deepa.nair152@example.com,Delhi,India,"Apr 12, 2024"
+C0075,KIRAN IYER,kiran.iyer75@example.com,Pune,India,21-Jan-2023
+C0203,AJAY SHARMA,AJAY.SHARMA203@EXAMPLE.COM,Chennai,India,15/10/2023
+C0013,lakshmi sharma,lakshmi.sharma13@example.com,Chennai,India,05/04/2023
+C0015,SNEHA REDDY,sneha.reddy15@example.com,Singapore,Singapore,2024-05-01
+C0071,,pooja.patel71@example.com,Mumbai,india,"Mar 29, 2022"
+C0041,Nisha Sharma,nisha.sharma41@example.com,Vijayawada,india,17/11/2023
+C0126,Meera Verma,meera.verma126@example.com,CHENNAI,India,2022-03-10
+C0129,Meera Chowdhary,  meera.chowdhary129@example.com ,Vijayawada,India,2022-02-12
+C0147,KIRAN PATEL,kiran.patel147@example.com,Pune,India,01/10/2023
+C0047,ADITYA KUMAR,ADITYA.KUMAR47@EXAMPLE.COM,Dubai,UAE,12/06/2023
+C0184,Sai Reddy,sai.reddy184@example.com,London,UK,29/05/2024
+C0005,DEEPA PATEL,deepa.patel5@example.com,Pune,india,10/04/2022
+C0165,  Kavya Rao  ,kavya.rao165@example.com,Mumbai,India,19/02/2022
+C0098,Harini Patel,harini.patel98@example.com,Singapore,singapore,2023-03-04
+C0277,Sneha Naidu,sneha.naidu277@example.com,Dubai,UAE,30-Nov-2022
+C0223,Sai Rao,sai.rao223@example.com,London,uk,08-Dec-2022
+C0251,kiran nair,,Hyderabad,India,29-Mar-2023
+C0056,Aditya Joshi,ADITYA.JOSHI56@EXAMPLE.COM,Dubai,UAE,2023-11-18
+C0136,Suresh Kumar,  suresh.kumar136@example.com ,HYDERABAD,India,2024-05-27
+C0170,Anjali Patel,anjali.patel170@example.com,Vijayawada,India,"May 26, 2023"
+C0043,Ajay Joshi,ajay.joshi43@example.com,Vijayawada,India,2022-06-15
+C0249,  Suresh Nair  ,suresh.nair249@example.com,Vijayawada,India,2023-07-28
+C0291,  Harsha Naidu  ,harsha.naidu291@example.com,Dubai,UAE,04-Feb-2024
+C0006,  Nisha Shetty  ,nisha.shetty6@example.com,Pune,India,22/04/2023
+C0024,Rohit Nair,rohit.nair24@example.com,Vijayawada,India,20-Sep-2023
+C0037,LAKSHMI SHETTY,LAKSHMI.SHETTY37@EXAMPLE.COM,BENGALURU,India,2023-07-28
+C0286,  Anjali Desai  ,anjali.desai286@example.com,Pune,India,"Nov 28, 2022"
+C0315,Deepa Desai,deepa.desai315@example.com,Chennai,India,11-Oct-2022
+C0308,Suresh Shetty,suresh.shetty308@example.com,Vijayawada,India,13/06/2022
+C0186,Suresh Patel,suresh.patel186@example.com,DUBAI,UAE,23/12/2022
+C0240,Harini Verma,harini.verma240@example.com,Hyderabad,India,07-May-2024
+C0316,Shivachandra Nair,SHIVACHANDRA.NAIR316@EXAMPLE.COM,Singapore,Singapore,2022-09-12
+C0167,SWATHI REDDY,swathi.reddy167@example.com,Dubai,UAE,2023-08-03
+C0083,Manoj Desai,manoj.desai83@example.com,Singapore,Singapore,2023-07-18
+C0058,HARINI RAO,harini.rao58@example.com,Vijayawada,India,01/01/2023
+C0230,Suresh Iyer,suresh.iyer230@example.com,SINGAPORE,Singapore,08/07/2023
+C0159,SNEHA CHOWDHARY,sneha.chowdhary159@example.com,Mumbai,India,2024-03-19
+C0057,Vikram Gupta,vikram.gupta57@example.com,Hyderabad,India,2022-09-27
+C0101,ajay menon,AJAY.MENON101@EXAMPLE.COM,Delhi,India,2024-05-09
+C0156,  Vikram Rao  ,vikram.rao156@example.com,Vijayawada,india,29/03/2022
+C0144,Deepa Joshi,deepa.joshi144@example.com,London,UK,2023-11-11
+C0031,Deepa Kumar,  deepa.kumar31@example.com ,London,UK,26/04/2024
+C0023,Swathi Joshi,test@,Mumbai,India,15-Jun-2023
+C0310,Harini Gupta,  harini.gupta310@example.com ,London,UK,12-Jan-2023
+C0218,Sneha Gupta,  sneha.gupta218@example.com ,Chennai,India,21-Feb-2022
+C0185,CHAITRA REDDY,chaitra.reddy185@example.com,Delhi,India,2024-05-01
+C0007,Sneha Sharma,sneha.sharma7@example.com,London,UK,"Nov 04, 2022"
+C0149,Ananya Nair,ananya.nair149@example.com,Dubai,UAE,2022-12-25
+C0059,Sneha Verma,SNEHA.VERMA59@EXAMPLE.COM,Hyderabad,india,2022-04-04
+C0106,  Ravi Reddy  ,,Mumbai,India,04-Feb-2024
+C0208,Rohit Menon,ROHIT.MENON208@EXAMPLE.COM,Mumbai,India,11/05/2022
+C0237,Swathi Gupta,swathi.gupta237@example.com,Singapore,singapore,2024-05-15
+C0307,Kiran Patel,kiran.patel307@example.com,Chennai,India,2022-04-05
+C0080,Rahul Reddy,rahul.reddy80@example.com,Delhi,india,"Apr 07, 2023"
+C0087,  Harini Patel  ,harini.patel87@example.com,Delhi,India,"Feb 14, 2023"
+C0218,Sneha Gupta,  sneha.gupta218@example.com ,Chennai,India,21-Feb-2022
+C0281,Karthik Shetty,  karthik.shetty281@example.com ,Singapore,Singapore,03-Oct-2022
+C0061,harini chowdhary,harini.chowdhary61@example.com,Delhi,India,22/02/2024
+C0171,Pooja Shetty,pooja.shetty171@example.com,Bengaluru,india,06/10/2023
+C0270,Harini Reddy,harini.reddy270@example.com,Hyderabad,India,05/06/2024
+C0289,AJAY NAIDU,ajay.naidu289@example.com,Singapore,Singapore,2022-01-11
+C0301,CHAITRA REDDY,chaitra.reddy301@example.com,Singapore,Singapore,25-Feb-2022
+C0073,Vikram Naidu,vikram.naidu73@example.com,Chennai,India,2023-09-10
+C0202,Anjali Naidu,  ,Singapore,Singapore,2023-12-14
+C0154,Deepa Gupta,  deepa.gupta154@example.com ,Chennai,India,20-Aug-2022
+C0180,Deepa Rao,deepa.rao180@example.com,SINGAPORE,Singapore,"Jan 23, 2022"
+C0069,Swathi Rao,swathi.rao69@example.com,LONDON,UK,2023-08-05
+C0228,kavya verma,kavya.verma228@example.com,Bengaluru,India,"Jul 07, 2023"
+C0264,Harsha Patel,harsha.patel264@example.com,Vijayawada,India,2022-05-31
+C0004,Divya Iyer,divya.iyer4@example.com,CHENNAI,India,08/07/2023
+C0124,Nisha Sharma,  nisha.sharma124@example.com ,Bengaluru,India,2023-02-20
+C0122,Nisha Rao,nisha.rao122@example.com,Mumbai,India,2023-03-04
+C0248,vikram gupta,vikram.gupta248@example.com,Bengaluru,India,22/11/2022
+C0250,vikram patel,vikram.patel250@example.com,Vijayawada,India,"Apr 10, 2022"
+C0070,Arjun Nair,arjun.nair70@example.com,Singapore,Singapore,"Oct 25, 2022"
